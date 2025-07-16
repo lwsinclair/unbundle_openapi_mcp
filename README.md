@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/auto-browse-unbundle-openapi-mcp-badge.png)](https://mseep.ai/app/auto-browse-unbundle-openapi-mcp)
+
 # Unbundle OpenAPI MCP Server
 [![smithery badge](https://smithery.ai/badge/@auto-browse/unbundle_openapi_mcp)](https://smithery.ai/server/@auto-browse/unbundle_openapi_mcp)
 
